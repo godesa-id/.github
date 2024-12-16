@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Go Desa** 🌾✨ adalah organisasi yang berfokus pada pengembangan solusi digital untuk memberdayakan dan mengoptimalkan potensi desa. Kami menyediakan aplikasi inovatif 💻📱 yang mendukung transformasi digital di bidang administrasi, ekonomi, pendidikan, dan layanan masyarakat desa. Dengan visi membangun desa yang lebih maju dan mandiri 🌟🌍, **Go Desa** menghadirkan teknologi yang mudah diakses dan digunakan oleh semua lapisan masyarakat. Bersama, kita wujudkan desa cerdas untuk masa depan Indonesia yang lebih baik! 🚀💚
